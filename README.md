@@ -1,10 +1,10 @@
-#Todo-Console-Application
+# Todo-Console-Application
 A 'TO DO' python console application
 A simple command line application that stores data in an Sqlite3 database
 See usage below:
 
 
-# Gil To Do Console Application
+# Gil Todo Console Application
 A Python console application for organizing of to do lists with various to do items.
 
 ## Installation

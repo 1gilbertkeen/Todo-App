@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-	name = 'Crollo',
+	name = 'Gil',
 	version = '1.0.1',
-	packages = ['crollo',],
+	packages = ['gil',],
 	license = 'MIT',
 
 long_description = open('README.md').read(),
