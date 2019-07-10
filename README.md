@@ -8,21 +8,22 @@ See usage below:
 A Python console application for organizing of to do lists with various to do items.
 
 ## Installation
-Clone the repo from GitHub:
+    Clone the repo from GitHub:
 ```
-git clone https://github.com/theekeen/Todo-App.git
+    git clone https://github.com/theekeen/Todo-App.git
 
-Navigate to the root folder:
-```
-cd Todo-App.git
-```
+    Navigate to the root folder:
 
-Install the required packages:
-```
-pip install -r requirements.txt
-```
+        cd Todo-App
 
-## Usage
+
+    Install the required packages:
+
+    pip install -r requirements.txt
+    ... 
+    
+###  Usage
+
 1. ```myapp.py create_todo <name> <description>``` Create a named todo list along with a description. Example: ``` create_todo 'bootcamp project' 'list of items to check on when working on project' ```
 
 2. ```myapp.py open_todo <name>``` Open a predefined todo list. From here you are able to mark list items as finished or unfinished. Example: ```myapp.py open_todo "bootcamp project"```
